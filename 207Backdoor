@@ -1,1 +1,2 @@
+wait(10)
 print("BACKDOOR LOADED.")

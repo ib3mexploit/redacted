@@ -1,2 +1,3 @@
-wait(10)
-print("BACKDOOR LOADED.")
+while wait(1) do
+  print("BACKDOOR DOES INDEED WORK. DISREGARD THIS SCRIPT. DISREGARD THIS SCRIPT.")
+ end
